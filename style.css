@@ -2,9 +2,24 @@ body {
     margin: 50px 60px;
     padding: 10px;
 }
+
 h1 {
     font-size: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.special-h1 {
+    text-align: center;
+}
+
+.icon {
+    height: 100px;
+}
+
+.tab {
+    border: 30px;
+    padding: 40px;
+    
+    
 }
 .left-text {
     height: ;
@@ -21,8 +36,10 @@ section {display: flex;}
 .link-button {
     text-decoration: none;
     margin: 5px 20px;
-    background-color: yellow;
+    background-color: orangered;
     padding: 7px 30px;
+    border-radius: 10px;
+   
     
 }
 
@@ -30,6 +47,9 @@ section {display: flex;}
     color: magenta;
 }
 
-    
-
+footer {
+    text-align: center;
+    background-color: bl ack;
+    padding: yellow;
+    border: orangered 5px;
 }
